@@ -6,7 +6,6 @@ import Nft from "../components/ui/Nft-card/nft";
 import { NFT__DATA } from "../assets/data/data";
 import { Billing, Business, CardDeal, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero } from "./components";
 import { toast } from 'react-toastify';
-import { Container, Row, Col } from "reactstrap";
 import styles from "../pages/style";
 import Image from 'next/future/image';
 import { useForm } from 'react-hook-form';
